@@ -1,0 +1,19 @@
+Model,Anlamsal Skor
+lemmatized_cbow_w2_d100,4.4
+lemmatized_cbow_w2_d300,4.6
+lemmatized_cbow_w4_d100,4.4
+lemmatized_cbow_w4_d300,4.6
+lemmatized_skipgram_w2_d100,3.8
+lemmatized_skipgram_w2_d300,3.8
+lemmatized_skipgram_w4_d100,3.8
+lemmatized_skipgram_w4_d300,3.8
+stemmed_cbow_w2_d100,4.4
+stemmed_cbow_w2_d300,4.6
+stemmed_cbow_w4_d100,3.8
+stemmed_cbow_w4_d300,4.4
+stemmed_skipgram_w2_d100,2.8
+stemmed_skipgram_w2_d300,3.8
+stemmed_skipgram_w4_d100,2.8
+stemmed_skipgram_w4_d300,3.8
+tfidf_lemmatized,3.8
+tfidf_stemmed,2.8

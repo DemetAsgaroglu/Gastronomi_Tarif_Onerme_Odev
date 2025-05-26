@@ -1,0 +1,19 @@
+Model,Benzerlik Skoru
+lemmatized_cbow_w2_d100,0.9986
+lemmatized_cbow_w2_d300,0.9993
+lemmatized_cbow_w4_d100,0.9987
+lemmatized_cbow_w4_d300,0.9991
+lemmatized_skipgram_w2_d100,0.9961
+lemmatized_skipgram_w2_d300,0.9968
+lemmatized_skipgram_w4_d100,0.996
+lemmatized_skipgram_w4_d300,0.9968
+stemmed_cbow_w2_d100,0.9988
+stemmed_cbow_w2_d300,0.9993
+stemmed_cbow_w4_d100,0.9984
+stemmed_cbow_w4_d300,0.999
+stemmed_skipgram_w2_d100,0.9902
+stemmed_skipgram_w2_d300,0.9932
+stemmed_skipgram_w4_d100,0.9886
+stemmed_skipgram_w4_d300,0.9908
+tfidf_lemmatized,0.8961
+tfidf_stemmed,0.7819

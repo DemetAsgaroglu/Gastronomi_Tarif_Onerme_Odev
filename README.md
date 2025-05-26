@@ -184,15 +184,6 @@ Gastronomi_Tarif_Onerme/<<br>├── data/                      # Veri setleri
 Bu açıklamaları README dosyanıza ekleyerek, projenizin önemli dosyalarını ve işlevlerini detaylı bir şekilde açıklayabilirsiniz. Eğer başka bir dosya veya detay eklemek isterseniz, lütfen belirtin!
 
 ## **Sonuçlar ve Görselleştirme**
-### TF-IDF En Yüksek 10 Kelime
-![TF-IDF Görselleştirme](gorsel/tf-ıdf/top_10_tfidf_lemmatized.png)
-![TF-IDF Görselleştirme](gorsel/tf-ıdf/top_10_tfidf_stemmed.png)
-
-### Word2Vec PCA Görselleştirme
-![Word2Vec Görselleştirme](gorsel/word2vec/lemma_cbow_w2_d100_pca_comparison.png)
-![Word2Vec Görselleştirme](gorsel/word2vec/lemma_skipgram_w2_d100_pca_comparison.png)
-![Word2Vec Görselleştirme](gorsel/word2vec/stem_skipgram_w4_d300_pca_comparison.png)
-
 
 ### **TF-IDF Görselleştirme**
 - **En Yüksek 10 Kelime (Lemmatized)**:
